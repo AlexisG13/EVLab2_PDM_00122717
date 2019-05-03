@@ -19,7 +19,6 @@ class ContentFr4agment : Fragment() {
     override fun onCreateView( inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View? {
         super.onCreateView(inflater, container, savedInstanceState)
         val view = inflater.inflate(R.layout.fragment_content_fr4agment, container, false)
-
         return view
     }
 
